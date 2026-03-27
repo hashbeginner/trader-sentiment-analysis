@@ -12,7 +12,8 @@
 ├── analysis.ipynb
 ├── app.py  
 ├── README.md
-├── WRITEUP.md                            
+├── WRITEUP.md
+├── data/                           
 │   ├── fear_greed_index.csv
 │   └── historical_data.csv              
 ├── charts/
