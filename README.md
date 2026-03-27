@@ -9,12 +9,14 @@
 
 ```
 .
-├── analysis.ipynb  
+├── analysis.ipynb
+├── app.py  
 ├── README.md
-├── WRITEUP.md                            
+├── Writeup.md                            
 │   ├── fear_greed_index.csv
 │   └── historical_data.csv              
-├── charts/   
+├── charts/
+
                           
 ```
 
